@@ -18,7 +18,7 @@ gtk-color-scheme = "fg_color:#009689\nbg_color:#242424"
 # Active Text
 gtk-color-scheme = "active_fg:#DDD"
 # Selected foreground/background
-gtk-color-scheme = "selected_fg_color:#ffffff\nselected_bg_color:#009689"
+gtk-color-scheme = "selected_fg_color:#ffffff\nselected_bg_color:#00756A"
 # Insensitive foreground/background
 gtk-color-scheme = "insensitive_fg_color:#006E64\ninsensitive_bg_color:#272727"
 # Menus
